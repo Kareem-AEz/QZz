@@ -1,0 +1,39 @@
+.button {
+	border: none;
+	background-color: #ff4444;
+	cursor: pointer;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	position: relative;
+
+	/* overflow: hidden; */
+}
+
+.button__border {
+	height: 100%;
+	width: 100%;
+
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.button__title {
+	font-size: inherit;
+	transition: color 0.3s ease;
+}
+
+.button__flair {
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	pointer-events: none;
+
+	aspect-ratio: 1/1;
+	border-radius: 100%;
+}
