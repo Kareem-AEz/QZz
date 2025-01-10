@@ -495,261 +495,224 @@ export const QzzData = {
 	English: {
 		questions: [
 			{
-				question: "What is the main theme of Shakespeare's 'Macbeth'?",
-				options: ["Ambition", "Love", "Revenge", "Fate"],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"Which literary device is primarily used in the phrase 'deafening silence'?",
-				options: ["Oxymoron", "Metaphor", "Simile", "Alliteration"],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"In which poem does T.S. Eliot explore the theme of disillusionment in modern society?",
+				question: "Which sentence is grammatically correct?",
 				options: [
-					"The Waste Land",
-					"The Love Song of J. Alfred Prufrock",
-					"The Hollow Men",
-					"Ash Wednesday",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"What is the primary function of a thesis statement in an essay?",
-				options: [
-					"To summarize the essay",
-					"To present the main argument",
-					"To provide background information",
-					"To conclude the essay",
-				],
-				correctOption: 1,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"Which author is known for the stream-of-consciousness narrative technique?",
-				options: [
-					"Virginia Woolf",
-					"James Joyce",
-					"William Faulkner",
-					"All of the above",
-				],
-				correctOption: 3,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"'The Road Not Taken' by Robert Frost primarily explores which concept?",
-				options: [
-					"Choices and consequences",
-					"Nature's beauty",
-					"Isolation",
-					"Friendship",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"'Pride and Prejudice' is a critique of which societal aspect?",
-				options: [
-					"Marriage customs",
-					"Class structure",
-					"Gender roles",
-					"All of the above",
-				],
-				correctOption: 3,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"'The Great Gatsby' is often seen as a commentary on which American ideal?",
-				options: [
-					"The American Dream",
-					"Individualism",
-					"Materialism",
-					"Socialism",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"What narrative perspective is used in 'To Kill a Mockingbird'?",
-				options: [
-					"First-person",
-					"Second-person",
-					"Third-person limited",
-					"Third-person omniscient",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"Which of the following is NOT a characteristic of Romantic literature?",
-				options: [
-					"Emphasis on emotion",
-					"Celebration of nature",
-					"Focus on industrialization",
-					"Interest in the individual",
+					"She don't like coffee.",
+					"She doesn't likes coffee.",
+					"She doesn't like coffee.",
+					"She do not like coffee.",
 				],
 				correctOption: 2,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question: "In literary terms, what does 'diction' refer to?",
-				options: ["Word choice", "Sentence structure", "Tone", "Theme"],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Medium",
+				points: 5,
+				difficulty: "Easy",
 			},
 			{
 				question:
-					"Which novel features the characters Jay Gatsby and Daisy Buchanan?",
+					"What is the primary theme of William Shakespeare's 'Macbeth'?",
 				options: [
-					"The Catcher in the Rye",
-					"The Great Gatsby",
-					"Moby Dick",
-					"1984",
-				],
-				correctOption: 1,
-				points: 10,
-				difficulty: "Medium",
-			},
-			{
-				question: "What is a common theme in Gothic literature?",
-				options: [
-					"Romantic love",
-					"Nature's beauty",
-					"Supernatural elements",
-					"Social justice",
-				],
-				correctOption: 2,
-				points: 10,
-				difficulty: "Medium",
-			},
-			{
-				question:
-					"Which poetic form consists of 14 lines with a specific rhyme scheme?",
-				options: ["Haiku", "Sonnet", "Limerick", "Free verse"],
-				correctOption: 1,
-				points: 10,
-				difficulty: "Medium",
-			},
-			{
-				question: "Who wrote 'The Metamorphosis'?",
-				options: [
-					"Franz Kafka",
-					"Herman Hesse",
-					"Leo Tolstoy",
-					"Gabriel Garcia Marquez",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Medium",
-			},
-			{
-				question: "What does 'imagery' refer to in literature?",
-				options: [
-					"Use of metaphors",
-					"Descriptive language that appeals to the senses",
-					"Character development",
-					"Plot structure",
-				],
-				correctOption: 1,
-				points: 10,
-				difficulty: "Medium",
-			},
-			{
-				question:
-					"Which famous novel begins with the line, 'Call me Ishmael.'?",
-				options: [
-					"Moby Dick",
-					"The Old Man and the Sea",
-					"Heart of Darkness",
+					"Love and Betrayal",
+					"Ambition and Power",
 					"War and Peace",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Medium",
-			},
-			{
-				question: "What is a key characteristic of postmodern literature?",
-				options: [
-					"Linear narrative structure",
-					"Emphasis on realism",
-					"Intertextuality and metafiction",
-					"Focus on character development",
-				],
-				correctOption: 2,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question: "Which author is known for their use of magical realism?",
-				options: [
-					"Gabriel Garcia Marquez",
-					"Ernest Hemingway",
-					"F. Scott Fitzgerald",
-					"Virginia Woolf",
-				],
-				correctOption: 0,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question:
-					"In which work does George Orwell explore totalitarianism through a dystopian lens?",
-				options: [
-					"Brave New World",
-					"Fahrenheit 451",
-					"1984",
-					"The Handmaid's Tale",
-				],
-				correctOption: 2,
-				points: 10,
-				difficulty: "Advanced",
-			},
-			{
-				question: "What is an allegory?",
-				options: [
-					"A type of poem",
-					"A story with a hidden meaning or moral lesson",
-					"A character who represents an idea",
-					"A narrative technique",
+					"Friendship and Loyalty",
 				],
 				correctOption: 1,
 				points: 10,
-				difficulty: "Medium",
+				difficulty: "Advanced",
 			},
 			{
 				question:
-					"Who wrote 'Beloved', a novel centered around the legacy of slavery?",
+					"Which verb tense is used in this sentence: 'By the time she arrived, I had already left'?",
 				options: [
-					"Toni Morrison",
-					"Alice Walker",
-					"Zora Neale Hurston",
-					"James Baldwin",
+					"Past Perfect",
+					"Present Perfect",
+					"Future Perfect",
+					"Simple Past",
 				],
 				correctOption: 0,
+				points: 8,
+				difficulty: "Intermediate",
+			},
+			{
+				question:
+					"What is the function of the word 'quickly' in the sentence: 'He quickly ran to the store'?",
+				options: ["Noun", "Verb", "Adverb", "Adjective"],
+				correctOption: 2,
+				points: 5,
+				difficulty: "Easy",
+			},
+			{
+				question: "Which of the following novels was written by Jane Austen?",
+				options: [
+					"Wuthering Heights",
+					"Pride and Prejudice",
+					"Great Expectations",
+					"The Scarlet Letter",
+				],
+				correctOption: 1,
 				points: 10,
+				difficulty: "Advanced",
+			},
+			{
+				question:
+					"What type of clause is 'because she was late' in the sentence: 'She missed the bus because she was late'?",
+				options: [
+					"Adverbial Clause",
+					"Noun Clause",
+					"Relative Clause",
+					"Independent Clause",
+				],
+				correctOption: 0,
+				points: 7,
+				difficulty: "Intermediate",
+			},
+			{
+				question: "Who wrote the epic poem 'Paradise Lost'?",
+				options: [
+					"William Blake",
+					"John Milton",
+					"Geoffrey Chaucer",
+					"Alexander Pope",
+				],
+				correctOption: 1,
+				points: 10,
+				difficulty: "Advanced",
+			},
+			{
+				question: "What is the meaning of the idiom 'spill the beans'?",
+				options: [
+					"To cause trouble",
+					"To reveal a secret",
+					"To make a mess",
+					"To tell a lie",
+				],
+				correctOption: 1,
+				points: 5,
+				difficulty: "Easy",
+			},
+			{
+				question: "Which of the following is an example of a metaphor?",
+				options: [
+					"As brave as a lion",
+					"The world is a stage",
+					"Like a fish out of water",
+					"Runs like the wind",
+				],
+				correctOption: 1,
+				points: 6,
+				difficulty: "Intermediate",
+			},
+			{
+				question:
+					"What literary device is used in the line: 'The leaves danced in the wind'?",
+				options: ["Metaphor", "Personification", "Hyperbole", "Alliteration"],
+				correctOption: 1,
+				points: 7,
+				difficulty: "Intermediate",
+			},
+			{
+				question: "What is the correct plural form of the word 'phenomenon'?",
+				options: ["Phenomenons", "Phenomena", "Phenomenas", "Phenomenae"],
+				correctOption: 1,
+				points: 8,
+				difficulty: "Advanced",
+			},
+			{
+				question:
+					"Who is the protagonist of Charles Dickens' 'Great Expectations'?",
+				options: [
+					"Oliver Twist",
+					"David Copperfield",
+					"Pip",
+					"Ebenezer Scrooge",
+				],
+				correctOption: 2,
+				points: 10,
+				difficulty: "Advanced",
+			},
+			{
+				question:
+					"What is the passive form of the sentence: 'She wrote a letter'?",
+				options: [
+					"A letter is written by her.",
+					"A letter was written by her.",
+					"A letter has been written by her.",
+					"A letter will be written by her.",
+				],
+				correctOption: 1,
+				points: 6,
+				difficulty: "Intermediate",
+			},
+			{
+				question:
+					"Which poet is known for the lines: 'I wandered lonely as a cloud'?",
+				options: [
+					"Percy Bysshe Shelley",
+					"William Wordsworth",
+					"Lord Byron",
+					"John Keats",
+				],
+				correctOption: 1,
+				points: 9,
+				difficulty: "Advanced",
+			},
+			{
+				question:
+					"What is the subject of the sentence: 'Reading books is my favorite hobby'?",
+				options: ["Books", "Reading", "My hobby", "Favorite"],
+				correctOption: 1,
+				points: 5,
+				difficulty: "Easy",
+			},
+			{
+				question:
+					"In George Orwell's '1984,' what is the significance of Room 101?",
+				options: [
+					"A place of peace and tranquility",
+					"The Ministry of Love's torture chamber",
+					"A symbol of freedom",
+					"A library for forbidden books",
+				],
+				correctOption: 1,
+				points: 10,
+				difficulty: "Advanced",
+			},
+			{
+				question: "Which of these sentences contains a misplaced modifier?",
+				options: [
+					"The boy walked his dog in a red shirt.",
+					"The boy in a red shirt walked his dog.",
+					"Walking his dog, the boy wore a red shirt.",
+					"The boy walked the dog wearing a red shirt.",
+				],
+				correctOption: 0,
+				points: 8,
+				difficulty: "Advanced",
+			},
+			{
+				question: "What type of noun is 'team'?",
+				options: [
+					"Common Noun",
+					"Proper Noun",
+					"Abstract Noun",
+					"Collective Noun",
+				],
+				correctOption: 3,
+				points: 5,
+				difficulty: "Easy",
+			},
+			{
+				question: "Who is the tragic hero in Sophocles' 'Oedipus Rex'?",
+				options: ["Oedipus", "Creon", "Antigone", "Tiresias"],
+				correctOption: 0,
+				points: 10,
+				difficulty: "Advanced",
+			},
+			{
+				question:
+					"Which literary period is associated with writers like Wordsworth and Coleridge?",
+				options: ["Victorian", "Romantic", "Modernist", "Renaissance"],
+				correctOption: 1,
+				points: 9,
 				difficulty: "Advanced",
 			},
 		],

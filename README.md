@@ -23,6 +23,29 @@ Check out the live demo: [QZz App](https://kareem-aez.github.io/QZz)
 - **Interactive Timer** - Keep track of your progress
 - **Point System** - Earn points based on difficulty and accuracy
 
+## 📚 Available Quizzes
+
+Currently, QZz offers the following quiz categories:
+
+- **JavaScript** - Test your JS knowledge with questions ranging from basics to advanced concepts
+- **React** - Challenge yourself with React fundamentals, hooks, and best practices
+- **English Literature & Language** - Master grammar, explore literary works, analyze poetry, and learn about literary devices through questions covering:
+  - Classic Literature (Shakespeare, Milton, Austen)
+  - Grammar & Syntax
+  - Literary Devices & Analysis
+  - Poetry & Prose
+  - Modern Literature
+  - Critical Analysis
+- **CubeSat** - Dive into satellite technology and space engineering
+- **Digital Fabrication** - Learn about 3D printing, manufacturing, and prototyping
+
+Each quiz features:
+- Multiple difficulty levels
+- Point-based scoring system
+- Custom theme colors
+- Timed challenges
+- Immediate feedback
+
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 19
