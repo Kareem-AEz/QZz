@@ -3,8 +3,7 @@
 # QZz App 🎯
 
 [![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
-[![GSAP](https://img.shields.io/badge/GSAP-2.1.1-green.svg)](https://greensock.com/gsap/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GSAP](https://img.shields.io/badge/GSAP-3.12.5-green.svg)](https://greensock.com/gsap/)
 [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen.svg)](https://kareem-aez.github.io/QZz)
 
 > An elegant and dynamic quiz application that makes learning fun and interactive! 🚀
