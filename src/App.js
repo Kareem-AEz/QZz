@@ -239,6 +239,7 @@ export default function App() {
 					<FinishScreen
 						points={points}
 						maxPoints={maxPoints}
+						selectedQzz={selectedQzz}
 						styles={styles}
 						dispatch={dispatch}
 					></FinishScreen>
