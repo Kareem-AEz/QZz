@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QZz/static/css/main.a5a5e714.css",
+    "main.js": "/QZz/static/js/main.ec3bf775.js",
+    "index.html": "/QZz/index.html",
+    "static/media/github.svg": "/QZz/static/media/github.fa60dd076808dc188e51e44f4b75cab9.svg",
+    "main.a5a5e714.css.map": "/QZz/static/css/main.a5a5e714.css.map",
+    "main.ec3bf775.js.map": "/QZz/static/js/main.ec3bf775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a5e714.css",
+    "static/js/main.ec3bf775.js"
+  ]
+}
